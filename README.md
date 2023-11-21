@@ -1,4 +1,4 @@
-## Hey 👋, This is Niky P M Lima
+## Hey everybody 👋, This is NPML Tech - Github!
 [![Gmail Badge](https://img.shields.io/badge/-devqasp@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:devqasp@gmail.com)](mailto:devqasp@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/palleta/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/palleta//)](https://www.linkedin.com/in/https://www.linkedin.com/in/palleta//) [![Github Badge](https://img.shields.io/badge/-npmltech-grey?style=flat&logo=github&logoColor=white&link=https://github.com/npmltech/)](https://www.github.com/npmltech/) <p align='left'>Hi, my name is niky and I'm a developer - tester from Brazil. Here I will leave my small contributions to the world of computing. I am a professional focused on exploring issues related to software quality. Feel free to consume the content!</p>
 ## Some of my Github Stats
