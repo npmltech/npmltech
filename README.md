@@ -1,4 +1,4 @@
-# 🎸 About Me:
+# 🦾 About Me:
 Hi, my name is niky and I'm a developer - tester from Brazil. Here I will leave my small contributions to the world of computing. I am a professional focused on exploring questions related to software quality. Feel free to consume the content!
 
 
